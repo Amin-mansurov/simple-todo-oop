@@ -1,6 +1,6 @@
-cmake_minimum_required(VERISION 3.10)
+cmake_minimum_required(VERSION 3.10)
 project(TodoAppOop)
 
-set(CMAKE_CXX_STANDART 17)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(todoappoop src/main.cpp src/todo.cpp)
+add_executable(todoappoop src/main.cpp)

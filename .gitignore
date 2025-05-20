@@ -1,0 +1,16 @@
+# Скомпилированные бинарники
+*.out
+*.exe
+*.o
+
+# Каталоги CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Временные файлы
+*.log
+*.tmp
+*.swp
